@@ -1,0 +1,39 @@
+{
+  "id": "jutsu-importer",
+  "title": "Jutsu importer",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "n5e2",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Capy",
+      "discord": "raflucas",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "n5e2",
+      "flags": {}
+    }
+  ]
+}
