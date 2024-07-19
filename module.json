@@ -37,6 +37,6 @@
     }
   ]
   "url": "https://github.com/capycorny/jutsu-importer/tree/main",
-  "manifest": "https://github.com/capycorny/jutsu-importer/tree/main",
-  "download": "https://github.com/capycorny/jutsu-importer/tree/main"
+  "https://github.com/capycorny/jutsu-importer/archive/refs/tags/release.zip",
+  "download": "https://github.com/capycorny/jutsu-importer/archive/refs/tags/release.zip"
 }
