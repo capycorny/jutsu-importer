@@ -36,5 +36,7 @@
       "flags": {}
     }
   ]
-  "url": "https://github.com/capycorny/jutsu-importer/tree/main"
+  "url": "https://github.com/capycorny/jutsu-importer/tree/main",
+  "manifest": "https://github.com/capycorny/jutsu-importer/tree/main",
+  "download": "https://github.com/capycorny/jutsu-importer/tree/main"
 }
