@@ -37,6 +37,7 @@
     }
   ]
   "url": "https://github.com/capycorny/jutsu-importer/tree/main",
+  "description": "Import jutsus from the jyraya book",
   "https://github.com/capycorny/jutsu-importer/archive/refs/tags/release.zip",
   "download": "https://github.com/capycorny/jutsu-importer/archive/refs/tags/release.zip"
 }
